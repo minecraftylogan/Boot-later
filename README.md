@@ -2,6 +2,7 @@
 Useless macOS hang that allows you to boot .app's/Installers later in bootpicker
 ## Instructions
 * Download Main
+* extract .app from dmg and place .app in dmg's place
 * Unzip Main and point terminal at Main and use command "dd if=/dev/zero bs=1M count=1000 >> .VolumeIcon"
 * Use shift+>+cmd to show hidden files in Main
 * Drag and drop everything on to a external USB drive / SSD formatted as APFS. (Note, .VolumeIcon may take awhile to transfer)
