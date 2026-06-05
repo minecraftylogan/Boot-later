@@ -1,4 +1,4 @@
-<img width="606" height="584" alt="image" src="https://github.com/user-attachments/assets/52e475bd-53e6-4aa5-b5bb-1b9767f5120c" />
+<img width="206" height="184" alt="image" src="https://github.com/user-attachments/assets/52e475bd-53e6-4aa5-b5bb-1b9767f5120c" />
 
 
 # Boot-later
