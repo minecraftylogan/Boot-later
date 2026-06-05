@@ -23,4 +23,5 @@ Useless macOS hang that allows you to boot .app's/Installers later in bootpicker
 ## Notes
 * Finish Install.app is a placeholder for bootpicker to see the USB drive, it will just error out if you try to open it. 
 ## To-Do
-Find the equation of (boot-picker * padding amount) = amount of time spent hanging. 
+* Find the equation of (boot-picker * padding amount) = amount of time spent hanging. 
+* No AI used. 
