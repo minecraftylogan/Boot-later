@@ -2,7 +2,7 @@
 
 
 # Boot-later
-Useless macOS hang that allows you to boot .app's/Installers later in bootpicker
+Useless macOS hang that allows you to boot .app's/Installers later in bootpicker on M1+
 ## Instructions
 * Download Main
 * extract .app from dmg and place .app in dmg's place
@@ -20,3 +20,7 @@ Useless macOS hang that allows you to boot .app's/Installers later in bootpicker
 * Asahi Linux Team for letting me steal their .VolumeIcon
 * Apple for macOS
 * MacAdmin Team for being awesome. <3
+## Notes
+* Finish Install.app is a placeholder for bootpicker to see the USB drive, it will just error out if you try to open it. 
+## To-Do
+Find the equation of (boot-picker * padding amount) = amount of time spent hanging. 
